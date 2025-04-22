@@ -1,9 +1,9 @@
 ## Hey! I'm Lhakpa ✨ ✿˚ ༘ ⋆｡♡˚ 👋
 
-- 🧑‍💻 Computer Science student at CUNY Queens College/>
-- 🧑🏻‍💻 I’m currently learning web development/>
-- 🧠 I am motivated to do Leetcode as much as I can/>
-- 💪 I love going to gym! Getting there! I love cooking healthy meals<br>
+- 🧑‍💻 Computer Science student at CUNY Queens College
+- 🧑🏻‍💻 I’m currently learning web development
+- 🧠 I am motivated to do Leetcode as much as I can
+- 💪 I love going to gym! Getting there! I love cooking healthy meals
   
   
 
